@@ -23,23 +23,20 @@ The processed data is saved in a new CSV format and is available for download.
 ## Installation
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/steam-totalizer-data-transformation.git
-   ```
+```bash
+git clone https://github.com/your-username/steam-totalizer-data-transformation.git
+```
 
 2. Install the required dependencies:
-
 ```bash
 pip install -r requirements.txt
 ```
 
 3. Ensure you have Python 3.x and the following libraries installed:
-
 pandas
 numpy
 
 4. Data Description
-
 Date: The date of the report in the format DD-MM-YYYY.
 KPI Name: Unit names (e.g., TG-1, TG-2, TG-3) transformed into "Specific Steam Consumption".
 Day: Day number (Day 1, Day 2, Day 3).
