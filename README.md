@@ -33,14 +33,19 @@ pip install -r requirements.txt
 ```
 
 3. Ensure you have Python 3.x and the following libraries installed:
-pandas
-numpy
 
-4. Data Description
-Date: The date of the report in the format DD-MM-YYYY.
-KPI Name: Unit names (e.g., TG-1, TG-2, TG-3) transformed into "Specific Steam Consumption".
-Day: Day number (Day 1, Day 2, Day 3).
-Value: Corresponding values for each day.
+- pandas
+- numpy
+
+5. Data Description:
+
+   Date: The date of the report in the format DD-MM-YYYY.
+   
+   KPI Name: Unit names (e.g., TG-1, TG-2, TG-3) transformed into "Specific Steam Consumption".
+   
+   Day: Day number (Day 1, Day 2, Day 3).
+   
+   Value: Corresponding values for each day.
 
 
 
