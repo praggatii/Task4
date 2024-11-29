@@ -27,4 +27,16 @@ The processed data is saved in a new CSV format and is available for download.
    git clone https://github.com/your-username/steam-totalizer-data-transformation.git
    ```
 
+2. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Ensure you have Python 3.x and the following libraries installed:
+
+pandas
+numpy
+
+
 #DataScience #DataTransformation #SteamTotalizer #CSVProcessing #Pandas #Python #DataCleaning #DataWrangling #KPIAnalysis #EnergyAnalysis #MachineLearning #BigData
